@@ -42,7 +42,7 @@ The frontend is built with **React** and styled using TailwindCSS. The backend i
 
 ### 🔹 Deployment:
 - **Frontend**: [Render Static Site](https://todofrontend-mkrr.onrender.com)
-- **Backend**: [Render Web Service](https://todobackend-b0nj.onrender.com)
+- **Backend**: [Render Web Service](https://todobackend-kgas.onrender.com)
 - **Database**: [MongoDB Atlas](mongodb+srv://Kunal:<db_password>@cluster0.gq5eiin.mongodb.net/)
 
 ---
